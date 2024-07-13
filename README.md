@@ -98,7 +98,7 @@
         truffle migrate
 
 You're all set! The Voting app should be up and running now at http://localhost:8080/.<br>
-For more info about usage checkout [YouTube video](https://youtu.be/LF1nS70Zwwg?si=JyZT1oFBchM6qi26)
+For more info about usage checkout [YouTube video](https://youtu.be/LF1nS70Zwwg?si=eZ-QERUqcE4L_gx9)
 
 ## Code Structure
 
