@@ -18,20 +18,11 @@
 - FastAPI
 - MySQL Database (port – 3306)
 
-## Screenshots
-
-![Login Page](https://github.com/karansahani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/login%20ss.png)
-
-![Admin Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/admin%20ss.png)
-
-![Voter Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/index%20ss.png)
-
 ## Installation
 
 1. Open a terminal.
 
 2. Clone the repository by using the command
-
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
