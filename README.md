@@ -20,11 +20,11 @@
 
 ## Screenshots
 
-![Login Page](https://github.com/karansahani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/login%20ss.png)
+![Login Page](https://github.com/karansahani/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/login%20ss.png)
 
-![Admin Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/admin%20ss.png)
+![Admin Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/admin%20ss.png)
 
-![Voter Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/public/index%20ss.png)
+![Voter Page](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/public/index%20ss.png)
 
 ## Installation
 
@@ -108,7 +108,7 @@
         truffle migrate
 
 You're all set! The Voting app should be up and running now at http://localhost:8080/.<br>
-For more info about usage checkout [YouTube video](https://www.youtube.com/watch?v=a5CJ70D2P-E).
+For more info about usage checkout [YouTube video](https://youtu.be/LF1nS70Zwwg?si=JyZT1oFBchM6qi26)
 
 ## Code Structure
 
@@ -153,5 +153,5 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
 
 ## License
 
-The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/main/LICENSE).
+The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain/blob/master/LICENSE).
 
