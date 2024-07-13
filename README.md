@@ -22,7 +22,7 @@
 
 1. Open a terminal.
 
-2. Clone the repository by using the command
+2. Clone the repository by using the command https://github.com/karansahani78/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
